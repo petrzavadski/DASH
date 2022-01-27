@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Sahalin.Report",
+    "slug": "sahalin-report",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+   
+    "android": {
+     "package": "com.Velesstroy.sahalin.Report",
+     "versionCode": 2
+    }
+  }
+}
+
+    
